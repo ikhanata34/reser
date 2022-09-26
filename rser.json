@@ -12,7 +12,7 @@
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "https://sites.google.com/view/privacypolicyallinone/accueil",
 
-	"button1": "skip",
+	"button1": "START",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -20,7 +20,7 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME": "Start ",
+	"BUTTON_NAME": "SKIPO ",
 
 	"BUTTON_URL": "https://www.bloomingdales.com/"
 
